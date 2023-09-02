@@ -1,0 +1,58 @@
+#pertamina{
+    background-color: rgb(197, 10, 10);
+    padding-top: 10px;
+    
+}
+#gambar1{
+    width: 150px;
+    height: 40px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   padding-right: 20px;
+    
+}
+.d-block {
+    width: 1300px ;
+    height: 600px;
+}
+#warna{
+    background-color: brown;
+    padding: 20px;
+    
+}
+#te{
+    background-color: white;
+    padding-left: 100px;
+    margin-top: 60px;
+}
+p{
+    margin-left: 30px;
+}
+#gambar2{
+    width: 600px;
+    height: 400px;
+   
+    
+
+}
+#coto{
+    margin-top: 95px;
+}
+#back{
+    background-image: url("https://phi.pertamina.com/uploads/1644396466_2021_02_07_incentive_phss_(1).jpeg");
+height: 500px;
+margin-top: 20px;
+}
+h1{
+    padding-top: 200px;
+    padding-left: 90px;
+}
+#hduh{
+    padding-top: 20px;
+    margin-left: 50px;
+    width: 300px;
+    color: white;
+    font-weight: bold;
+    
+}
