@@ -1,0 +1,202 @@
+body,p,h1,h2{
+    padding: 0;
+    margin: 0;
+}
+#gambar1{
+    width: 20px;
+    height: 20px;
+   margin-top: 20px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+    
+}
+#play{
+    width: 20px;
+    height: 20px;
+}
+#WEB p {
+    display: inline;
+   margin-top: 20px;
+   margin-bottom: 10px;
+   margin-left: 15px;
+    float: left;
+    
+}
+#JEJE{
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    font-size: 25px;
+   
+}
+
+ 
+#isi{
+    background-color: rgb(142, 101, 115);
+    height: 400px;
+    
+}
+#SOSMED{
+    display: inline;
+    float: right;
+    margin-right: 30px;
+   margin-top: -50px;
+}
+#gambar2{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px ;
+}
+
+#gambar3{
+    width: 22px;
+    height: 22px;
+    margin-left: -15px;
+}
+#gambar4{
+    width: 22px;
+    height: 22px;
+    margin-left: -5px;
+    
+}
+#gambar5{
+    width: 450px;
+    height: 450px;
+   margin-right: -80px;
+ 
+    margin-top: 40px;
+    float: right;
+    
+}
+#SEMUA{
+    background-color: rgb(142, 101, 115);
+    height: 80px;
+}
+#TOLOL{
+    background-color: rgb(16, 14, 15);
+    padding: 10px;
+    
+   
+}
+a{
+    text-decoration: none;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 10px;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: italic;
+}
+#TOLOL a:hover{
+background-color: rgb(140, 88, 104);
+background-size: 100px;
+padding: 5px;
+border-radius:5px;
+
+}
+h1{
+    margin-left: 10px;
+}
+#icin{
+    font-size: 15px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Preahvihear', sans-serif;
+    margin-left: 15px;
+    text-align: justify;
+    margin-right: 70px;
+}
+#error{
+    display: block;
+    margin-top: -30px;
+}
+#res{
+    border-radius: 10px ;
+    border: 3px solid black;
+    background-color: rgb(185, 147, 158);
+    margin-top: 20px;
+     margin-right: 1000px;
+     width: 300px;
+     height: 80px;
+     margin-left: 10px;
+     
+    }
+#gambar6{
+    width: 40px;
+    height: 40px;
+    margin-top: -30px;
+   margin-bottom: 10px;
+   padding-left: 10px;
+    display: inline;
+    margin-left: 20px ;
+    ;
+    }
+    #ser{
+        font-size: 17px;
+        text-align: left;
+        padding-top: 30px;
+        padding-left: 80px ;
+        
+    }
+    #semuami{
+        background-color: black;
+        
+        padding: 70px;
+    }
+    #yuli{
+        border-radius: 10px ;
+        border: 3px solid black;
+        background-color: rgb(140, 88, 104);
+        margin-top: 20px;
+         margin-right: 1000px;
+         width: 300px;
+         height: 80px;
+         margin-left: 425px;
+         
+        }
+    #gambar7{
+        width: 40px;
+        height: 40px;
+        margin-top: -60px;
+       margin-bottom: 7px;
+       padding-left: 10px;
+        display: inline;
+        margin-left: 20px ;
+        ;
+        }
+        #liyu{
+            font-size: 17px;
+            text-align: left;
+            padding-top: 30px;
+            padding-left: 80px ;
+            
+        }    
+        #imut{
+            border-radius: 10px ;
+            border: 3px solid black;
+            background-color: rgb(185, 147, 158);
+            margin-top: -180px;
+             margin-right: 1000px;
+             width: 300px;
+             height: 80px;
+             margin-left: 800px;
+             margin-bottom: 80px;
+             
+            }
+        #gambar8{
+            width: 40px;
+            height: 40px;
+            margin-top: -300px;
+           margin-bottom: 7px;
+           padding-left: 5px;
+            display: inline;
+            margin-left: 10px ;
+            
+            }
+            #timun{
+                font-size: 17px;
+                text-align: left;
+                padding-top: 30px;
+                padding-left: 60px ;
+                
+            }    
